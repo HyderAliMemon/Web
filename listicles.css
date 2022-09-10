@@ -1,0 +1,131 @@
+header{
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("images/header.jpg");
+    background-position: top;
+    height: 500px;
+    
+}
+h1:first-child{
+    text-align:center;
+    color:white;
+    font-family: serif;
+    font-size:36px;
+    font-weight: normal;
+    max-width: 780px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top:50%;
+
+}
+body{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#vrk-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    bottom:50px;
+}
+#victoria{
+    text-align: center;
+    font-size: 18px;
+    padding-right: 70px;
+    color: rgb(51, 51, 51);
+    line-height: 24px;
+    position: relative;
+    bottom: 60px;
+    
+}
+em{
+    text-decoration: underline;
+}
+a{
+    margin-left: 72px;
+    color:#42b4d6;
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.soda{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+    display: inline-block;
+    
+}
+.Latte{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+    display: inline-block;
+}
+.Tea{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+    display: inline-block;
+}
+.Cafe{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+    display: inline-block;
+}
+#number{
+    margin-right: 40px;
+    font-size: 36px;
+    color:rgba(0,0,0,0.25);
+   
+}
+p{
+    font-size: 18px;
+    color: rgb(51, 51, 51);
+    line-height: 32px;
+    font-family: sans-serif;
+    padding-left: 70px;
+    margin-bottom:20px;
+}
+#text{
+    font-family:serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+}
+#soda-img{
+    display: block;
+    width:66.67%;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
+#tea-img{
+    display: block;
+    width:66.67%;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
+#cafe-img{
+    display: block;
+    width:66.67%;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
+#latte-img{
+    display: block;
+    width:66.67%;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
